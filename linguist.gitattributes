@@ -1,2 +1,2 @@
 # Fix syntax highlighting for devcontainer files
-.devcontainer/*.json linguist-language=JSON-with-Comments
+.devcontainer/*.js linguist-language=JS-with-Comments
