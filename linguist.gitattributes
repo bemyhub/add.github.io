@@ -1,1 +1,4 @@
 *.js linguist-language=JavaScript
+ git add .gitattributes
+ git commit -m "Add .gitattributes to identify .js files as JavaScript"
+ git push origin main
